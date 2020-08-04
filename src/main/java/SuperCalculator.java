@@ -3,6 +3,9 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
+/**
+ * 做一个计算器，打个jar包，当做练习
+ */
 public class SuperCalculator {
 
     public static void main(String[] args) {
